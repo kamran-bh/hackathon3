@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.components.header{
+  
+  margin-right: 10px;
+}
+nav{
+  display:flex;
+  gap: 10px;
+  background-color: rgb(89, 186, 186);
+  padding-left: 10px;
+  font-size: bold;
+  justify-content: center;
+  justify-items: center;
+  border-radius: 10px;
+  }
+h1{
+  margin-left: 500px;
+  margin-right: 300px;
+  margin-top: 10px;
+  font-size: larger;
+  font-style: bold;
+  color:blue;
+  border-radius: 10px;
+  
+
+}
+  
+  
